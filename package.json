@@ -1,0 +1,23 @@
+{
+  "name": "mace",
+  "version": "0.0.0",
+  "description": "A usefull tools for nodejs",
+  "main": "./lib/mace.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lichenhao/mace"
+  },
+  "keywords": [
+    "nodejs",
+    "util"
+  ],
+  "dependencies": {},
+  "author": "lichenhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lichenhao/mace/issues"
+  },
+  "homepage": "https://lichenhao.github.io/mace",
+  "readmeFile": "README.md"
+}
