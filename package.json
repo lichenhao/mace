@@ -1,7 +1,7 @@
 {
   "name": "mace",
-  "version": "0.0.3",
-  "description": "A usefull tools for nodejs",
+  "version": "0.0.4",
+  "description": "A pure tools for nodejs",
   "main": "./lib/mace.js",
   "scripts": {},
   "repository": {

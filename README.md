@@ -1,6 +1,11 @@
-#mace 
+#Mace is a pure tools for nodejs 
 
-mace.liveLoad 
-inherits from util
+Not like underscore, this is all for NodeJs.
 
-Some simple method will help u build a rich Application
+use `mace.liveLoad` to live Load.
+use `mace.inherit` to your class.
+
+TODO:
+
+  1. Upgrade the output messages with colors.
+  2. improve the liveLoad.
