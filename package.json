@@ -1,7 +1,7 @@
 {
   "name": "mace",
-  "version": "0.1.0",
-  "description": "A pure tools for nodejs",
+  "version": "1.0.0",
+  "description": "Fetch source with your http request but delegate some other url",
   "main": "./lib/mace.js",
   "scripts": {},
   "repository": {
@@ -9,8 +9,13 @@
     "url": "https://github.com/lichenhao/mace"
   },
   "keywords": [
-    "nodejs",
-    "util"
+    "util",
+    "underscore",
+    "commander",
+    "log",
+    "logue",
+    "debug",
+    "http"
   ],
   "dependencies": {},
   "author": "lichenhao",
